@@ -23,5 +23,6 @@ Welcome to the Restaurant Recommendation System! This system is designed to reco
 ## Requirements
 - Python 3.x
 - NumPy
+- Google Earth
 - Scikit-learn
 
